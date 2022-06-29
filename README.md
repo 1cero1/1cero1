@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/cJuJI2ttlpJ1jkiPFz/giphy.gif" width="500px">
-</div>
-
 <div align="center"> <h1 align="center"> Hi There! This is Elif Ceren 👋 </h1> </div>
 
 <h3 align="center">💬I am currently taking lessons from a bootcamp due to my interest in data analysis and machine learning . 💬</h3>
