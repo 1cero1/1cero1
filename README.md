@@ -44,25 +44,16 @@
 </p>
 
 
-<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
-
-</p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir1031&theme=algolia&layout=compact" alt="languages" width="50%" >
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir1031&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir1031&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
 <a href="https://github.com/1cero1/01_Data_Science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCES&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1cero1&repo=01_DATA_SCIENCES&theme=algolia" />
 </a>
 <a href="https://github.com/1cero1/02_Assignments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1cero1&repo=02_ASSIGNMENTS&theme=algolia" />
 </a>
 <a href="https://github.com/1cero1/03_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1cero1&repo=03_PROJECTS&theme=algolia" />
 </p>
