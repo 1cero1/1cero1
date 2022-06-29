@@ -48,8 +48,8 @@
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
 <p align="center">
-<a href="https://github.com/emir1031/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
+<a href="https://github.com/emir1031/01_DATA_SCIENCE_NOTEBOOKS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=01_DATA_SCIENCE_NOTEBOOKS&theme=algolia" />
 </a>
 <a href="https://github.com/1cero1/02_Assignments">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1cero1&repo=02_ASSIGNMENTS&theme=algolia" />
